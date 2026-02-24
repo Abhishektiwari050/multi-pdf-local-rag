@@ -1,11 +1,8 @@
 streamlit
 python-dotenv
-openai
-faiss-cpu
-langchain
-langchain-community
-langchain-openai
+google-genai
 PyMuPDF
 fpdf2
-fpdf
-streamlit-pdf-viewer
+opencv-python
+Pillow
+numpy
